@@ -1,6 +1,3 @@
-# VOYAGEAI_AGENT
-VoyageAI – Your Personal Travel Concierge Agent  VoyageAI is a multi-agent, LLM-powered travel assistant that plans trips end-to-end based on user preferences. Enter your destination, budget, and travel dates — and VoyageAI will generate real-time flight options, hotel recommendations, and a personalized itinerary.
-
 # VoyageAI – Multi-Agent Travel Concierge Assistant
 VoyageAI is an AI-powered multi-agent concierge assistant that automates end-to-end travel planning. Designed for the **Concierge Agent Track** of the Google x Kaggle Generative AI Capstone Challenge, VoyageAI helps users plan personalized trips by generating flight options, hotel stays, and day-by-day itineraries based on user preferences.
 
@@ -111,5 +108,6 @@ Interests: Sightseeing, cultural landmarks
 
   1. Created for the Google x Kaggle Generative AI Capstone Challenge 2025
   2. Build your own travel concierge with AI!
+  This project is licensed under the MIT License – see the [`LICENSE`](./LICENSE) file for details.
 
 
