@@ -62,21 +62,7 @@ voyageai/
 ├── requirements.txt
 └── README.md
 
-## How to Run
-1. **Clone the Repository**
-   git clone https://github.com/YOUR_USERNAME/voyageai-travel-agent.git
-   cd voyageai-travel-agent
-   
-2. **Install Dependencies**
-   pip install -r requirements.txt
-   
-3. **Add Environment Variables**
-   Create a .env file and add:
-   OPENAI_API_KEY=your_openai_key_here
-FLIGHT_API_KEY=your_flight_api_key_here
-HOTEL_API_KEY=your_hotel_api_key_here
-4. **Run the Agent**
-   python main.py
+
 ## Example User Interaction
 
 Enter your name: Priyanshu
